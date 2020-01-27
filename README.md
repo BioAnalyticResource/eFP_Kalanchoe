@@ -1,2 +1,2 @@
-# eFP_Kalanchoe
-eFP Kalanchoe
+# eFP Kalanchoe
+This is the source code for eFP Kalanchoe hosted on the BAR.

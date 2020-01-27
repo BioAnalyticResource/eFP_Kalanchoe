@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE specimen SYSTEM "http://www.bar.utoronto.ca/efp/cgi-bin/data/efp_config.dtd">
+<specimen name="Kalanchoe">
+	<view name="all" db="kalanchoe" img="Light_Response.png" table="sample_data">
+		<lookup db="None" table="None" geneid_col="None"/>
+		<coords graphX="13" graphY="0" graphWidth="60" graphHeight="80" legendX="31" legendY="371"/>
+		<group name="White Light Dawn control group">
+			<control sample="WL_Dawn_rep1"/>
+			<control sample="WL_Dawn_rep2"/>
+			<control sample="WL_Dawn_rep3"/>
+			<tissue colorKey="#d7c279" name="HL_Dusk">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="460,472,509,472,509,554,460,554"/>
+				<sample name="HL_Dusk_rep1" />
+				<sample name="HL_Dusk_rep2" />
+				<sample name="HL_Dusk_rep3" />
+			</tissue>
+			<tissue colorKey="#ff9696" name="RL_Dusk">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="330,265,385,265,385,347,330,347"/>
+				<sample name="RL_Dusk_rep1" />
+				<sample name="RL_Dusk_rep2" />
+				<sample name="RL_Dusk_rep3" />
+			</tissue>
+			<tissue colorKey="#ddb323" name="HL_Dawn">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="402,472,454,472,454,554,402,554"/>
+				<sample name="HL_Dawn_rep1" />
+				<sample name="HL_Dawn_rep2" />
+				<sample name="HL_Dawn_rep3" />
+			</tissue>
+			<tissue colorKey="#100694" name="BL_Dawn">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="145,265,199,265,199,347,145,347"/>
+				<sample name="BL_Dawn_rep1" />
+				<sample name="BL_Dawn_rep2" />
+				<sample name="BL_Dawn_rep3" />
+			</tissue>
+			<tissue colorKey="#ece52e" name="LL_Dawn">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="272,472,328,472,328,554,272,554"/>
+				<sample name="LL_Dawn_rep1" />
+				<sample name="LL_Dawn_rep2" />
+				<sample name="LL_Dawn_rep3" />
+			</tissue>
+			<tissue colorKey="#f0f192" name="LL_Dusk">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="328,472,385,472,385,553,328,553"/>
+				<sample name="LL_Dusk_rep1" />
+				<sample name="LL_Dusk_rep2" />
+				<sample name="LL_Dusk_rep3" />
+			</tissue>
+			<tissue colorKey="#a1fca1" name="WL_Dusk">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="72,265,126,265,126,348,72,348"/>
+				<sample name="WL_Dusk_rep1" />
+				<sample name="WL_Dusk_rep2" />
+				<sample name="WL_Dusk_rep3" />
+			</tissue>
+			<tissue colorKey="#6764de" name="BL_Dusk">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="202,266,255,266,255,348,202,348"/>
+				<sample name="BL_Dusk_rep1" />
+				<sample name="BL_Dusk_rep2" />
+				<sample name="BL_Dusk_rep3" />
+			</tissue>
+			<tissue colorKey="#c09edd" name="DG_Dusk">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="202,471,257,471,257,553,202,553"/>
+				<sample name="DG_Dusk_rep1" />
+				<sample name="DG_Dusk_rep2" />
+				<sample name="DG_Dusk_rep3" />
+			</tissue>
+			<tissue colorKey="#e63333" name="RL_Dawn">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="274,265,327,265,327,348,274,348"/>
+				<sample name="RL_Dawn_rep1" />
+				<sample name="RL_Dawn_rep2" />
+				<sample name="RL_Dawn_rep3" />
+			</tissue>
+			<tissue colorKey="#a445f5" name="DG_Dawn">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="141,471,198,471,198,555,141,555"/>
+				<sample name="DG_Dawn_rep1" />
+				<sample name="DG_Dawn_rep2" />
+				<sample name="DG_Dawn_rep3" />
+			</tissue>
+			<tissue colorKey="#64fe64" name="WL_Dawn">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="15,266,70,266,70,347,15,347"/>
+				<sample name="WL_Dawn_rep1" />
+				<sample name="WL_Dawn_rep2" />
+				<sample name="WL_Dawn_rep3" />
+			</tissue>
+			<tissue colorKey="#7a0000" name="FR_Dawn">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="402,268,454,268,454,341,402,341"/>
+				<sample name="FRL_Dawn_rep1" />
+				<sample name="FRL_Dawn_rep2" />
+				<sample name="FRL_Dawn_rep3" />
+			</tissue>
+			<tissue colorKey="#aa5e5e" name="FR_Dusk">
+				<link url="https://genome.jgi.doe.gov/portal/KalfedExpression_3_FD/KalfedExpression_3_FD.info.html"/>
+				<area coords="460,267,509,267,509,344,460,344"/>
+				<sample name="FRL_Dusk_rep1" />
+				<sample name="FRL_Dusk_rep2" />
+				<sample name="FRL_Dusk_rep3" />
+			</tissue>
+
+		</group>
+	</view>
+</specimen>
